@@ -1,6 +1,6 @@
 # Formal verification of Hybrid Post-Quantum TLS protocol
 
-This project provides a formal verification of the Hybrid Post-Quantum TLS protocol using the Maude-NPA tool. Maude-NPA is a tool written in Maude for analyzing cryptographic protocols.
+This project provides a formal verification of the [Hybrid Post-Quantum TLS protocol](https://datatracker.ietf.org/doc/html/draft-campagna-tls-bike-sike-hybrid) using the Maude-NPA tool. Maude-NPA is a tool written in Maude for analyzing cryptographic protocols.
 
 ## Prerequisites
 
